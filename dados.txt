@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Guilherme 
+-Profissão: Estudante
+-Cidade: Campinas / SP
+-O que faz nas horas vaga: leitura, games e tracking
+-Feedback sobre o curso Qualidade de Software: Aproveitando ao máximo, iniciando o programa de empregabilidade
+-Feedback sobre a plataforma de estudo da EBAC: simples e prática, feedbacks rápidos das atividades.
 
 Obrigado!!!
 
